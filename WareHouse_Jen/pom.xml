@@ -13,15 +13,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
- <distributionManagement>
-    <repository>
-      <id>internal.repo</id>
-      <name>JAmit761983</name>
-      <url>https://github.com/JAmit761983/WareHouse.git</url>
-    </repository>
-  </distributionManagement>
-  <dependencies>
  
+  <dependencies>
     <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
